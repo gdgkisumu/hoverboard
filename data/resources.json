@@ -1,13 +1,13 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "title": "GDG DevFest Season 2017",
+  "description": "The biggest Google tech conference in Kenya carefully crafted for you by the GDG community (GDG Kisumu, GDG Rongo, GDG Kisii and GDG MMUST)! All about Android, Web and Cloud from the world experts",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, kisumu,  chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "November 10-11, 2017",
+  "locationAddressShort": "Kisumu, Kenya",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Book a seat now!",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
@@ -28,10 +28,10 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
+  "locationTitle": "Planet Media, Kisumu",
   "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
+  "locationAddress": "Mega City Mall, Kisumu",
+  "organizerTitle": "GDG Kisumu",
   "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
@@ -122,7 +122,7 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 400,
       "caption": "Attendees"
     },
     {
@@ -130,16 +130,12 @@
       "caption": "Days"
     },
     {
-      "counter": 30,
+      "counter": 19,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 5,
       "caption": "Tracks"
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
-  }
+  ]
 }
